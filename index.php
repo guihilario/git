@@ -1,4 +1,4 @@
 <?php
-echo "Olá Mundo123"
-echo "Mudamos!"
+echo "Alteração web"
+echo "pra fuder!"
 ?>
